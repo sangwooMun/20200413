@@ -6,5 +6,6 @@ public class Student {
 		String studentName;
 		int score;
 		int age;
+		
 	
 }

@@ -16,7 +16,7 @@ public class ArrayExample4 {
 			if(intAry[i] > 15) {
 				sum += intAry[i];
 			}
-			System.out.println(intAry[i]);
+//			System.out.println(intAry[i]);
 		}
 		System.out.println();
 		System.out.println(sum);
